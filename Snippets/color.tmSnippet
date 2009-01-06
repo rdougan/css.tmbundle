@@ -3,15 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>cursor:pointer;
-cursor:hand;</string>
+	<string>color:${1:#${2:fff}};${0}</string>
 	<key>name</key>
-	<string>cursor-pointer</string>
+	<string>color</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>cur</string>
+	<string>c</string>
 	<key>uuid</key>
-	<string>ABBE3759-BFC0-4DE5-90A0-A0CFB931E26F</string>
+	<string>C88D6D54-AC19-448E-9045-8BCE81145E69</string>
 </dict>
 </plist>
