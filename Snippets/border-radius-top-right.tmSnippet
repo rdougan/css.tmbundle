@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>border-top-right-radius: ${1}px;
--moz-border-radius-topright: ${1}px;
--webkit-border-top-right-radius: ${1}px;</string>
+	<string>border-top-right-radius:${1}px;
+-moz-border-radius-topright:${1}px;
+-webkit-border-top-right-radius:${1}px;</string>
 	<key>name</key>
 	<string>border-radius-top-right</string>
 	<key>scope</key>
